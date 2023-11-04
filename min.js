@@ -16,6 +16,5 @@ for(i=k;i<arr.length;i++){
 }
 if(min_sum>curr_sum){
         min_sum=curr_sum;
-
 }
 console.log(min_sum);
